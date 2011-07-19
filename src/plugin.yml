@@ -1,0 +1,7 @@
+name: Legends
+main: com.coryleach.legends.Legends
+version: 0.1
+depend:
+  - WorldEdit
+  - GroupManager
+  - Citizens
